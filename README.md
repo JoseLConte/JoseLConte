@@ -1,7 +1,7 @@
 **Boas vindas ao meu perfil**
 
--Estudante
+José Lucas
 
--José Lucas 
+-Estudante do Alura
 
 -IG:@contejoselucas
